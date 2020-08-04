@@ -1,0 +1,154 @@
+header {
+	font-family: 'Barlow Condensed', sans-serif;
+	font-size: 25px;
+}
+
+/* INDEX.HTML */
+
+.navbar .navbar-brand {
+	font-size: 40px;
+	padding-right: 40px;
+}
+
+.navbar ul li {
+	padding-right: 10px;
+}
+
+.card-group {
+	width: 95%;
+	margin-left: 2%;
+}
+
+.jumbotron p, h1 {
+	text-align: center;
+}
+
+div .jumbotron {
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 140px;
+  position: relative;
+}
+
+.card img {
+	height: 40%;
+}
+
+.articles .titre-articles {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+.articles .card {
+	border: none;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+
+.articles h5, .card-text {
+	text-align: center;
+}
+
+a.btn.btn-primary {
+	margin-left: 25%;
+}
+
+.tuyaux .titre-tuyaux {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+.tuyaux .card {
+	width: 100%;
+	margin-left: 25%;
+	border: none;
+}
+
+.tuyaux a {
+	color: grey;
+}
+
+.tuyaux a:hover  {
+	text-decoration: none;
+	color: black;
+}
+
+.tuyaux i {
+	text-align: center;
+	padding-top: 10px;
+}
+
+.tuyaux p {
+	text-align: center;
+}
+
+div.row {
+	margin-right: 0px;
+}
+
+
+/* CONTACT.HTML */
+
+form .form-contact button {
+	margin-left: 45%;
+	margin-top: 40px;
+}
+
+.formulaire-complet legend.lead {
+	text-align: center;
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+
+.formulaire-complet {
+	margin-top: 40px;
+}
+
+.form-contact {
+	width: 70%;
+	padding-left: 30%;
+}
+
+
+/* LOGIN.HTML */
+
+.form-connexion-complet {
+	margin-top: 40px;
+}
+
+div.form-connexion {
+	width: 70%;
+	padding-left: 30%;
+}
+
+.form-connexion-complet legend {
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.form-connexion a {
+	color: grey;
+}
+
+.form-connexion a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+
+/* FOOTER */
+
+footer {
+	margin-top: 40px;
+}
+
+footer a {
+	color: grey;
+}
+
+footer a:hover  {
+	text-decoration: none;
+	color: black;
+}
+
